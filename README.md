@@ -3,6 +3,7 @@ Most car accidents happen when people drive in the wrong lane, change lanes in d
 
 The system mainly based on RGB sensor. It detects the road yellow color and make the alert that driver cross the line. Driver can see the current status in the connected device. It comes from the cloud which also store the data of the vehicle.
 ![Fig 1:](https://user-images.githubusercontent.com/58773438/211372410-8f420498-2766-4256-93d2-45fb65c65a21.png)
+
 Fig 1: One car goes through the main road without any line violation. Another car goes through the yellow, which is wrong.
 When a go through the yellow line, the system alerts the driver and also send the notification. Otherwise, the car can go fluently.  
 In this paper we proposed a system that have the following features,
