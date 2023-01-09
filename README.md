@@ -6,8 +6,8 @@ The system mainly based on RGB sensor. It detects the road yellow color and make
 
 Fig 1: One car goes through the main road without any line violation. Another car goes through the yellow, which is wrong.
 When a go through the yellow line, the system alerts the driver and also send the notification. Otherwise, the car can go fluently.  
-In this paper we proposed a system that have the following features,
+we proposed a system that have the following features,
 i.	The system makes an alert when the driver crosses the yellow line.
 ii.	Send the notification to the driver’s device to see the status.
-iii.	Store the data in the cloud to understand the driver’s ability on road.
+iii.Store the data in the cloud to understand the driver’s ability on road.
 
